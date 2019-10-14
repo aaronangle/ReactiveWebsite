@@ -1,0 +1,64 @@
+html, body{
+    background-image: url(images/herringbone.png);
+}
+
+.footer{
+    border-top: solid 8px #4aaaa5;
+    background-color: gray;
+    height: 50px;
+    width: 100%;
+
+}
+.container{
+    min-height: 85vh;
+
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:hover{
+    color: #4aaaa5;
+}
+.center{
+    text-align: center;
+}
+.gray {
+
+    color: #777777;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+.white-text{
+    color: #ffffff;
+}
+.teal{
+    color:  #4aaaa5;
+}
+.teal-box{
+    background-color: #4aaaa5;
+    padding: 15px;
+    margin: 0;
+}
+.white{
+    background-color: white;
+    margin-top: 20px;
+    
+}
+.justify{
+    text-align: justify;
+}
+.margin0{
+    margin:0;
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+.m-top{
+    margin-top: 30px;
+}
