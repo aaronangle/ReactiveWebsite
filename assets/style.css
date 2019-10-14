@@ -1,3 +1,4 @@
+/*Sets the background image*/
 html, body{
     background-image: url(images/herringbone.png);
 }
@@ -9,6 +10,7 @@ html, body{
     width: 100%;
 
 }
+/*Main container of the site*/
 .container{
     min-height: 85vh;
 
@@ -17,6 +19,7 @@ h1{
     margin: 0;
     padding: 0;
 }
+/*all a tags have no decoration*/
 a {
     text-decoration: none;
 }
@@ -29,11 +32,13 @@ a:hover{
 .center{
     text-align: center;
 }
+/*Sets color of all gray text*/
 .gray {
 
     color: #777777;
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
 }
+/*Sets white text color*/
 .white-text{
     color: #ffffff;
 }
@@ -45,6 +50,7 @@ a:hover{
     padding: 15px;
     margin: 0;
 }
+/*Background color and margin for the main contents*/
 .white{
     background-color: white;
     margin-top: 20px;
@@ -57,6 +63,7 @@ a:hover{
 .margin0{
     margin:0;
 }
+/*Fonts for the headings*/
 h1, h2, h3, h4, h5{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
