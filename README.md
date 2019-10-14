@@ -1,1 +1,3 @@
-# ReactiveWebsite
+### ReactiveWebsite
+
+This website is a mockup version of a personal portfolio/ website. This website was created using Bootstrap to create a reactive design that is able to be scaled down to mobile phones and smaller screens. This site demonstrates proper use of rows and columns in Bootstrap for a completley scalable design. I also used a custom CSS stylesheet to help create my own personal layout from the Bootstrap library. One of the challenges I faced while creating this site was the sticky footer at the bottom of the site. How I solved this issue is by setting the container height of the body of the site based on a vh from the users browser. Then I set the footer outside of the container to keep it on the bottom all the time.
