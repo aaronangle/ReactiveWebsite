@@ -48,6 +48,7 @@ a:hover{
 .white{
     background-color: white;
     margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 .justify{
@@ -65,4 +66,7 @@ h1, h2, h3, h4, h5{
 .img-size{
     max-width: 100%;
     max-height: 100%;
+}
+.relative{
+    position: relative;
 }
